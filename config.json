@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "karmelsensei@gmail.com",
-    "password": "sasori",
+    "email": "",
+    "password": "",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -16,14 +16,16 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "adminBot": ["61557674704673" ],
+  "adminBot": [
+    "61557674704673"
+  ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "『𝐒𝐀 𝐌𝐈』ホ",
-  "prefix": "¥",
+  "nickNameBot": "❄︎🅡︎🅔︎🅝︎🅙︎🅘︎ 🅑︎🅞︎🅣︎❄︎",
+  "prefix": "~",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
